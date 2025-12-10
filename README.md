@@ -1,4 +1,4 @@
-# 🧠 RAG with OpenAI: Turning a Cookbook into a Searchable AI Knowledge System
+# RAG with OpenAI: Turning a Cookbook into a Searchable AI Knowledge System
 
 This repo contains my final notebook from a RAG (Retrieval-Augmented Generation) course, where I built an end-to-end pipeline that takes a scanned cookbook PDF and turns it into a **semantically searchable recipe knowledge base**.
 
