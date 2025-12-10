@@ -6,7 +6,7 @@ I used this project to deepen my skills as an **AI Solutions Engineer**: connect
 
 ---
 
-## 🔍 What the Notebook Does
+## What the Notebook Does
 
 The main file in this repo is:
 
@@ -48,7 +48,7 @@ Inside that notebook, the pipeline:
 
 ---
 
-## 💼 Why This Matters (Beyond Recipes)
+## Why This Matters (Beyond Recipes)
 
 The dataset is playful, but the pattern is very real:
 
@@ -67,7 +67,7 @@ This project demonstrates how to:
 
 ---
 
-## 🏗️ Tech Stack
+## Tech Stack
 
 - **Python**
 - **OpenAI API**
@@ -79,7 +79,7 @@ This project demonstrates how to:
 
 ---
 
-## ⚙️ How to Run It
+## How to Run It
 
 ### 1. Clone the repo
 
