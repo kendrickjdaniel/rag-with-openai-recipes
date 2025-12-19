@@ -1,8 +1,8 @@
 # RAG with OpenAI: Turning a Cookbook into a Searchable AI Knowledge System
 
-This repo contains my final notebook from a RAG (Retrieval-Augmented Generation) course, where I built an end-to-end pipeline that takes a scanned cookbook PDF and turns it into a **semantically searchable recipe knowledge base**.
+This repo contains my final notebook from a RAG (Retrieval-Augmented Generation) course, where I built an end-to-end pipeline that takes a scanned cookbook PDF and turns it into a semantically searchable recipe knowledge base.
 
-I used this project to deepen my skills as an **AI Solutions Engineer**: connecting unstructured data, embeddings, vector search, and LLMs into a working system.
+I used this project to deepen my skills as an AI Solutions Engineer: connecting unstructured data, embeddings, vector search, and LLMs into a working system.
 
 ---
 
@@ -61,9 +61,9 @@ The dataset is playful, but the pattern is very real:
 
 This project demonstrates how to:
 
-- Use LLMs for **document understanding**, not just chat  
-- Build **embeddings + vector search** with FAISS  
-- Set up the core of a **Retrieval-Augmented Generation** workflow
+- Use LLMs for document understanding, not just chat  
+- Build embeddings + vector search with FAISS  
+- Set up the core of a Retrieval-Augmented Generation workflow
 
 ---
 
